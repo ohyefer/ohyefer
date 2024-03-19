@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, me llamo Yeferson Bravo</h1>
 <h3 align="center">Soy un amante apasionado en el Desarrollo Web y Apps móviles Android</h3>
 
-- 🔭 Actualmente estoy trabajando en [Contraloría del Estado Bolivariano de Guárico](http://cebg.com.ve/)
+- 🔭 Actualmente estoy trabajando en la [Contraloría del Estado Bolivariano de Guárico](http://cebg.com.ve/)
 
 - 🌱 Actualmente estoy aprendiendo **Framework Laravel**
 
 - 👯 Busco colaborar en **Proyectos como Freelancer Remoto**
 
-- 🤝 Estoy buscando ayuda con **Trabajo de Freelancer Remoto**
+- 🤝 Estoy buscando ayuda para **Trabajo de Freelancer Remoto**
 
 - 💬 Preguntame sobre **HTML, CSS/Bootstrap, JavaScript, Java, Kotlin, XML (Layout), SQLITE, FIREBASE, PLUGINS**
 
