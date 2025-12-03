@@ -9,7 +9,7 @@
 
 - 🤝 Estoy buscando ayuda para **Trabajo de Freelancer Remoto**
 
-- 💬 Preguntame sobre **PHP, HTML, CSS/Bootstrap, JavaScript, Java, Kotlin, XML (Layout), SQLite, Firebase, Plugins**
+- 💬 Preguntame sobre **PHP, HTML, CSS/Bootstrap, JavaScript, Java, Kotlin, XML (Layout), MySQL, MariaDB, SQLite, Firebase, Plugins**
 
 - 📫 Contactarme **bravoluquey@gmail.com**
 
