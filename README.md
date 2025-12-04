@@ -15,7 +15,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/ohyefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ohyefer" height="30" width="40" /></a>
+<a href="https://x.com/ohyefer" target="blank"><img align="center" src="data:image/svg+xml;charset=UTF-8,<?xml version='1.0' encoding='UTF-8'?><svg xmlns='http://www.w3.org/2000/svg' width='1024' height='1024' viewBox='0 0 1024 1024' aria-labelledby='title' role='img'><title>X - icon</title><rect width='100%25' height='100%25' fill='none'/><path d='M200 200 L824 824' stroke='%23000000' stroke-width='120' stroke-linecap='round' stroke-linejoin='round' fill='none'/><path d='M824 200 L200 824' stroke='%23000000' stroke-width='120' stroke-linecap='round' stroke-linejoin='round' fill='none'/></svg>" alt="ohyefer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ohyefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ohyefer" height="30" width="40" /></a>
 <a href="https://instagram.com/ohyefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ohyefer" height="30" width="40" /></a>
 </p>
