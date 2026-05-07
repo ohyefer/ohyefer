@@ -12,8 +12,7 @@
 - 💬 Preguntame sobre **PHP, HTML, CSS/Bootstrap, JavaScript, Java, Kotlin, XML (Layout), MySQL, MariaDB, SQLite, Firebase, Plugins**
 
 - 📫 Contactarme **bravoluquey@gmail.com**
-
-<h3 align="left">Lenguajes y herramientas:</h3>
+- 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <div style="display:flex; flex-direction:row; gap:16px; align-items:center; overflow-x:auto; flex-wrap:nowrap;">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
