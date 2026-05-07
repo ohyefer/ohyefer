@@ -13,6 +13,8 @@
 
 - 📫 Contactarme **bravoluquey@gmail.com**
 
+- 🔭 Visítame **https://ohyefer.github.io/cv/**
+
 <h3 align="left">Lenguajes y herramientas:</h3>
 
 <table>
