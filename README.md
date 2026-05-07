@@ -1,15 +1,31 @@
 <h1 align="center">Hola 👋, me llamo Yeferson Bravo</h1>
-<h3 align="center">Soy un amante apasionado en el Desarrollo Web y Apps móviles Android</h3>
 
-- 🔭 He desempeñado el cargo de Analista de Desarrollo de Aplicaciones II en la [Contraloría del Estado Bolivariano de Guárico](http://cebg.com.ve/)
+💻 Soy un amante apasionado del **Desarrollo Web** y de **Aplicaciones Móviles Android**, enfocado en crear soluciones digitales modernas, funcionales y creativas. Disfruto desarrollar proyectos que combinan tecnología, diseño y experiencia de usuario, tanto para plataformas web como móviles.
 
-- 🌱 Actualmente estoy aprendiendo **Framework Laravel**
+🏢 He desempeñado el cargo de **Analista de Desarrollo de Aplicaciones II** en la [Contraloría del Estado Bolivariano de Guárico](https://cebg.com.ve), participando en el desarrollo y mantenimiento de sistemas y soluciones tecnológicas institucionales.
 
-- 👯 Busco colaborar en **Proyectos como Freelancer Remoto**
+✨ También soy el creador de [Magic Code Inc](https://magiccodeinc.blogspot.com/), una marca y proyecto personal creado para representar mi visión tecnológica y creativa. Este espacio está enfocado en el desarrollo de aplicaciones, sitios web, proyectos digitales, contenido tecnológico y aprendizaje continuo.
 
-- 🤝 Estoy buscando ayuda para **Trabajo de Freelancer Remoto**
+🌱 Actualmente me encuentro aprendiendo el Framework **Laravel**, ampliando mis conocimientos para seguir creciendo profesionalmente en el desarrollo web moderno.
 
-- 💬 Preguntame sobre **PHP, HTML, CSS/Bootstrap, JavaScript, Java, Kotlin, XML (Layout), MySQL, MariaDB, SQLite, Firebase, Plugins**
+🤝 Busco colaborar en proyectos como **Freelancer Remoto**, aportando creatividad, compromiso y soluciones eficientes para diferentes tipos de proyectos digitales.
+
+🔥 Tecnologías y temas sobre los que puedes preguntarme:
+
+💠 PHP
+💠 HTML
+💠 CSS / Bootstrap
+💠 JavaScript
+💠 Java
+💠 Kotlin
+💠 XML (Layouts Android)
+💠 MySQL
+💠 MariaDB
+💠 SQLite
+💠 Firebase
+💠 Plugins y herramientas de desarrollo
+
+🚀 Siempre abierto a nuevas oportunidades, colaboraciones y proyectos tecnológicos innovadores.
 
 - 📫 Contactarme **bravoluquey@gmail.com**
 
