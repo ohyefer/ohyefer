@@ -12,7 +12,7 @@
 - 💬 Preguntame sobre **PHP, HTML, CSS/Bootstrap, JavaScript, Java, Kotlin, XML (Layout), MySQL, MariaDB, SQLite, Firebase, Plugins**
 
 - 📫 Contactarme **bravoluquey@gmail.com**
-- 
+
 <h3 align="left">Lenguajes y herramientas:</h3>
 
 <table>
