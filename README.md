@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, me llamo Yeferson Bravo</h1>
 
-💻 Soy un amante apasionado del **Desarrollo Web** y de **Aplicaciones Móviles Android**, enfocado en crear soluciones digitales modernas, funcionales y creativas. Disfruto desarrollar proyectos que combinan tecnología, diseño y experiencia de usuario, tanto para plataformas web como móviles.
+💻 Ingeniero en Informática con experiencia en desarrollo web y aplicaciones móviles Android. Especializado en la creación de sistemas, soluciones digitales y aplicaciones enfocadas en rendimiento, experiencia de usuario e innovación tecnológica.
 
 🏢 He desempeñado el cargo de **Analista de Desarrollo de Aplicaciones II** en la [Contraloría del Estado Bolivariano de Guárico](https://cebg.com.ve), participando en el desarrollo y mantenimiento de sistemas y soluciones tecnológicas institucionales.
 
